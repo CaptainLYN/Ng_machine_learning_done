@@ -1,1 +1,2 @@
 # Ng_machine_learning_done
+记录在学习吴恩达的机器学习的各种资料
